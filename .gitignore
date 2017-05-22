@@ -1,0 +1,4 @@
+*.ko
+*.o
+a.out
+modules.order
